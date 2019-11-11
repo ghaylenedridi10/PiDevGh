@@ -1,0 +1,50 @@
+﻿@model Domain.Entities.Newslettre
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Newslettre</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Userr.Nom)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Userr.Nom)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.MailUser)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.MailUser)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.PhoneUser)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.PhoneUser)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.IdNewslettre }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

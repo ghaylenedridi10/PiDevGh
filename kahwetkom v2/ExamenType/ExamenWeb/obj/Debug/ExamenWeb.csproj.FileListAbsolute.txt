@@ -1,0 +1,325 @@
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\obj\Debug\ExamenWeb.csprojResolveAssemblyReference.cache
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\ApplicationInsights.config
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\roslyn\csc.exe
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\roslyn\vbc.exe
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\ExamenWeb.dll.config
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\ExamenWeb.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\ExamenWeb.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Antlr3.Runtime.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Domaine.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\EntityFramework.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\EntityFramework.SqlServer.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AI.Web.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AI.WindowsServer.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.ApplicationInsights.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Security.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Security.Google.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Newtonsoft.Json.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Owin.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Service.Pattern.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Services.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\System.Web.Helpers.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\System.Web.Mvc.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\System.Web.Optimization.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\System.Web.Razor.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\System.Web.WebPages.Deployment.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\System.Web.WebPages.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\System.Web.WebPages.Razor.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\WebGrease.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Data.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Domaine.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Service.Pattern.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Services.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\EntityFramework.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\EntityFramework.SqlServer.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AI.Web.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AI.WindowsServer.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.ApplicationInsights.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\System.Web.Helpers.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\System.Web.Mvc.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\System.Web.Optimization.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\System.Web.Razor.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\System.Web.WebPages.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\System.Web.WebPages.Deployment.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\System.Web.WebPages.Razor.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Antlr3.Runtime.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Newtonsoft.Json.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Security.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Security.Google.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\Data.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\EntityFramework.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\EntityFramework.SqlServer.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\System.Web.Helpers.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\System.Web.Mvc.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\System.Web.Optimization.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\System.Web.Razor.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\System.Web.WebPages.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\System.Web.WebPages.Deployment.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\System.Web.WebPages.Razor.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\Microsoft.Owin.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\Microsoft.Owin.Security.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\obj\Debug\ExamenWeb.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\ExamenWeb\obj\Debug\ExamenWeb.pdb
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\ApplicationInsights.config
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\roslyn\csc.exe
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\roslyn\vbc.exe
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\ExamenWeb.dll.config
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\ExamenWeb.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\ExamenWeb.pdb
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Antlr3.Runtime.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Domaine.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\EntityFramework.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Newtonsoft.Json.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Owin.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Service.Pattern.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Services.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\System.Web.Helpers.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\System.Web.Mvc.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\System.Web.Optimization.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\System.Web.Razor.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\System.Web.WebPages.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\WebGrease.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Data.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Domaine.pdb
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Service.Pattern.pdb
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Services.pdb
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\EntityFramework.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\System.Web.Helpers.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\System.Web.Mvc.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\System.Web.Optimization.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\System.Web.Razor.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\System.Web.WebPages.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Newtonsoft.Json.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\Data.pdb
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\EntityFramework.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\obj\Debug\ExamenWeb.csprojResolveAssemblyReference.cache
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\obj\Debug\ExamenWeb.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\ExamenWeb\obj\Debug\ExamenWeb.pdb
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\ApplicationInsights.config
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\roslyn\csc.exe
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\roslyn\vbc.exe
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\ExamenWeb.dll.config
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\ExamenWeb.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\ExamenWeb.pdb
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Antlr3.Runtime.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Domaine.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\EntityFramework.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AI.Web.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Newtonsoft.Json.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Owin.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Service.Pattern.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Services.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\System.Web.Helpers.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\System.Web.Mvc.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\System.Web.Optimization.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\System.Web.Razor.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\System.Web.WebPages.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\WebGrease.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Data.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Domaine.pdb
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Service.Pattern.pdb
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Services.pdb
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\EntityFramework.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AI.Web.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\System.Web.Helpers.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\System.Web.Mvc.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\System.Web.Optimization.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\System.Web.Razor.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\System.Web.WebPages.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Antlr3.Runtime.pdb
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Newtonsoft.Json.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\Data.pdb
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\System.Web.Razor.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\obj\Debug\ExamenWeb.csprojResolveAssemblyReference.cache
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\obj\Debug\ExamenWeb.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\ExamenWeb\obj\Debug\ExamenWeb.pdb

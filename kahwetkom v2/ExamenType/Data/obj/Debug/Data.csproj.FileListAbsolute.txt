@@ -1,0 +1,51 @@
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\Data.dll.config
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\Data.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\Data.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\Domaine.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\EntityFramework.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\Domaine.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\EntityFramework.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\fr\EntityFramework.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\obj\Debug\Data.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\obj\Debug\Data.pdb
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\obj\Debug\Data.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\obj\Debug\Data.pdb
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\bin\Debug\Data.dll.config
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\bin\Debug\Data.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\bin\Debug\Data.pdb
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\bin\Debug\Domaine.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\bin\Debug\EntityFramework.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\bin\Debug\Domaine.pdb
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\bin\Debug\EntityFramework.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\obj\Debug\Data.Migrations.FirstTryMigration.resources
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\Lazzem\Documents\Visual Studio 2015\Projects\ExamenType\Data\obj\Debug\Data.Migrations.EnaJamilaGhayle.resources
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\bin\Debug\Data.dll.config
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\bin\Debug\Data.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\bin\Debug\Data.pdb
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\bin\Debug\Domaine.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\bin\Debug\EntityFramework.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\bin\Debug\Domaine.pdb
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\bin\Debug\EntityFramework.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\obj\Debug\Data.Migrations.FirstTryMigration.resources
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\obj\Debug\Data.Migrations.EnaJamilaGhayle.resources
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\obj\Debug\Data.dll
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\obj\Debug\Data.pdb
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\obj\Debug\Data.Migrations.OffreUpdate.resources
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\obj\Debug\Data.Migrations.ghay.resources
+C:\Users\ghaylene dridi\Desktop\Nouveau dossier (2)\ExamenType\Data\obj\Debug\Data.Migrations.v1.resources
